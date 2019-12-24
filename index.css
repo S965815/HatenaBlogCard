@@ -1,0 +1,20 @@
+.embed-footer,.blog-icon,.embed-logo,.thumb-wrapper {
+display: none;
+}
+.embed-header {
+padding : 0;
+}
+.blog-user {
+position: absolute;
+top: 0px;
+left: 100px;
+}
+.embed-wrapper-inner {
+background: #333131;
+}
+.entry-content,.blog-user a {
+color: #EDF3ED;
+}
+.blog-title a {
+rgb(10,132,255);
+}
